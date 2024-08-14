@@ -1,9 +1,16 @@
 
-### HI! 👋
+### OI! 🤙
 
-🎮🎧 Victor Costa
+<br><br><br><br>
+Victor Costa Nova
+<br><br>
+🌎🇧🇷
+<br>
+📍Vancouver, 🇨🇦
+<br><br>
+<br><br>
 
-📚💻 Computer Science
+📚💻 Bachelor's Degree - Computer Science
 
 
 
