@@ -1,5 +1,5 @@
 
-### Oi! 🤙
+### Oi! 
 
 <br><br><br><br>
 Victor Costa Nova
@@ -10,7 +10,7 @@ Victor Costa Nova
 <br><br>
 <br><br>
 
-📚💻 Bachelor's Degree - Computer Science
+
 
 
 
