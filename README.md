@@ -4,9 +4,9 @@
 <br><br><br><br>
 Victor Costa Nova
 <br><br>
-🌎🇧🇷
+from 🇧🇷
 <br>
-📍Vancouver, 🇨🇦
+🌎📍Vancouver, 🇨🇦
 <br><br>
 <br><br>
 
