@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">From 🇧🇷<br>📍 Vancouver 🇨🇦  <br><br>💻 Full Stack Development<br>🎓 Bachelor's in Computer Science <br>🎯 Bitcoin, nature, and learning new things</h5>
+<h5 align="left">From 🇧🇷<br>📍 Vancouver 🇨🇦  <br><br>💻 Full Stack Developer<br>🎓 Bachelor's in Computer Science <br>🎯 Bitcoin, nature, and learning new things</h5>
 
 ###
 
