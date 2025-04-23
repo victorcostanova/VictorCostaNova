@@ -11,7 +11,7 @@
 
 ###
 
-<h5 align="left">From 🇧🇷<br>📍 Vancouver 🇨🇦  <br><br>💻 Cybersecurity<br>🎓 Bachelor's in Computer Science <br>🎯 Bitcoin, nature, and learning new things</h5>
+<h5 align="left">From 🇧🇷<br>📍 Vancouver 🇨🇦  <br><br>🛡️ Cybersecurity<br>🎓 Bachelor's in Computer Science <br>🎯 Bitcoin, nature, and learning new things</h5>
 
 ###
 
