@@ -7,18 +7,23 @@
 
 ###
 
+
+
 <h1 align="center">Victor Costa Nova</h1>
 
 ###
 
+<div align="center">
+
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/victorcostanova.png)](https://tryhackme.com/p/victorcostanova)
+
+</div>
+
 <h5 align="left">From 🇧🇷<br>📍 Vancouver 🇨🇦  <br><br>🛡️ Cybersecurity<br>🎓 Bachelor's in Computer Science <br>🎯 Bitcoin, nature, and learning new things</h5>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorcostanova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcostanova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+
 
 ###
 
