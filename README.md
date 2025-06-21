@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/victorcostanova.png)](https://tryhackme.com/p/victorcostanova)
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/victornova.png)](https://tryhackme.com/p/victornova)
 
 
 </div>
