@@ -8,20 +8,8 @@
 ###
 
 
-
-<h1 align="center">Victor Costa Nova</h1>
-
-###
-
-<div align="center">
-
-  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/victornova.png)](https://tryhackme.com/p/victornova)
-
-
-</div>
-
-<h5 align="left">From 🇧🇷<br>📍 Vancouver 🇨🇦  <br><br>🛡️ Cybersecurity<br>🎓 Bachelor's in Computer Science <br>🎯 Bitcoin, nature, and learning new things</h5>
-
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=39FF14&multiline=true&width=650&height=240&lines=victor%40github%3A~%24+cat+about_me.txt;Name........%3A+Victor+Costa+Nova;Origin......%3A+Brazil+;Education...%3A+BSc+in+Computer+Science;Focus.......%3A+Network+Security+%26+Security+Engineering;Status......%3A+Learning.+Breaking.+Building.)](https://git.io/typing-svg)
 
 
 
